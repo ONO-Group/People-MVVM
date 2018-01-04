@@ -26,13 +26,13 @@ Feel free to report or add any useful feature, I will be glad to improve it with
 
 Developed By
 ------------
-
-* Erik Jhordan Rey  - <erikjhordan.rey@gmail.com> 
+[![HassanUsman](https://avatars0.githubusercontent.com/u/10232094?v=4&s=40) HassanUsman](https://github.com/HassanUsman)  
+[Erik Jhordan Rey](erikjhordan.rey@gmail.com)
 
 License
 -------
 
-    Copyright 2016 Erik Jhordan Rey
+    Copyright 2017 Hassan Usman
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
